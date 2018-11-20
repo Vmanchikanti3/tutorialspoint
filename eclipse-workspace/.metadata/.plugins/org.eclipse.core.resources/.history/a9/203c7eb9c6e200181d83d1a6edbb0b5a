@@ -1,0 +1,17 @@
+package tutorialspoint;
+
+public class sample {
+	public static void main (String args[]) {
+		float Num1=10;
+		float Num2=20;
+		
+		
+		
+		System.out.println(Num1+Num2);
+	}
+}
+
+
+
+
+

@@ -1,0 +1,17 @@
+
+public class helloworld {
+
+	public static void main(String[] args) {
+		
+		int interger=100;
+		char ch = 'a';
+	
+		
+		System.out.println("Hello world");
+		System.out.println(interger);
+		System.out.println(ch);
+
+		
+	}
+
+}

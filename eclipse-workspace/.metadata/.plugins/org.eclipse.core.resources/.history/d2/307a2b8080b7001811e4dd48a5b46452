@@ -1,0 +1,13 @@
+
+public class bollean {
+
+	public static void main(String[] args) {
+		
+		int num1=10; 
+		boolean num= num1>20;
+		System.out.println(num);
+		
+
+	}
+
+}
